@@ -1,0 +1,6 @@
+C:\Users\K A M A N D E R\source\repos\ShapesLibrary\bin\Debug\ShapesLibrary.dll
+C:\Users\K A M A N D E R\source\repos\ShapesLibrary\bin\Debug\ShapesLibrary.pdb
+C:\Users\K A M A N D E R\source\repos\ShapesLibrary\obj\Debug\ShapesLibrary.csproj.AssemblyReference.cache
+C:\Users\K A M A N D E R\source\repos\ShapesLibrary\obj\Debug\ShapesLibrary.csproj.CoreCompileInputs.cache
+C:\Users\K A M A N D E R\source\repos\ShapesLibrary\obj\Debug\ShapesLibrary.dll
+C:\Users\K A M A N D E R\source\repos\ShapesLibrary\obj\Debug\ShapesLibrary.pdb
